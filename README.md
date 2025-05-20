@@ -19,6 +19,8 @@ This project is a pixel-based web game developed using [Kaboom.js](https://kaboo
    ```sh
    git clone <your-repo-url>
 2. Navigate to the project directory:
+   ```sh
    cd pixel-web-game
-3. Open index.html in a browser or run a local server:
+4. Open index.html in a browser or run a local server:
+   ```sh
    npx http-server
